@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Navegación Interna</title>
+</head>
+<body>
+
+    <!-- Punto de inicio con ID -->
+    <h1 id="inicio">📜 Índice del Manga</h1>
+
+    <!-- Menú de navegación interna -->
+    <p>
+        <a href="#arco1">Ir al Arco de la Aldea</a> || 
+        <a href="#arco2">Ir al Arco de Chunin</a> || 
+        <a href="#arco3">Ir al Arco de Akatsuki</a>
+    </p>
+
+    <br><br><br> <!-- Espacios para que se note el salto -->
+
+    <!-- SECCIÓN 1 -->
+    <h2 id="arco1">🏡 Arco 1: La Aldea Oculta</h2>
+    <p class="descripcion">Naruto comienza su vida como estudiante de academia. Conoce a Sasuke y Sakura, forma el Equipo 7 con Kakashi y realiza sus primeras misiones. Descubre el valor de la amistad y el trabajo en equipo.</p>
+    <p class="datos">Capítulos: 1 al 80 aprox.</p>
+    <p><a href="#inicio">🔝 Volver arriba</a></p>
+
+    <br><br><br>
+
+    <!-- SECCIÓN 2 -->
+    <h2 id="arco2">⚔️ Arco 2: Exámenes Chunin</h2>
+    <p class="descripcion">Llegan ninjas de todo el mundo para competir. Aparecen nuevos personajes como Gaara, Rock Lee y Neji. Se desata la invasión de Orochimaru y muere el Tercer Hokage. Naruto empieza a entrenar con Jiraiya.</p>
+    <p class="datos">Capítulos: 81 al 180 aprox.</p>
+    <p><a href="#inicio">🔝 Volver arriba</a></p>
+
+    <br><br><br>
+
+    <!-- SECCIÓN 3 -->
+    <h2 id="arco3">☁️ Arco 3: Akatsuki</h2>
+    <p class="descripcion">La organización criminal Akatsuki empieza a cazar a los jinchurikis. Itachi aparece, se revelan secretos del pasado de los hermanos Uchiha y Naruto debe aprender a controlar el poder del Kyubi para salvar a sus amigos.</p>
+    <p class="datos">Capítulos: 181 al 450 aprox.</p>
+    <p><a href="#inicio">🔝 Volver arriba</a></p>
+
+</body>
+</html>
+
